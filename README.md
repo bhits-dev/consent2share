@@ -1,3 +1,4 @@
+# Note: Please get the latest Consent2Share code from [BHITS on Github](https://github.com/bhits/ "BHITS on Github") #
 # Consent2Share
 
 For additional information not contained on this site, please visit the [**Consent2Share on GitHub**](https://bhits-dev.github.io/consent2share/) website.
